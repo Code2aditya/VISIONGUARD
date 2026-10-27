@@ -1,0 +1,1 @@
+ Invoke-RestMethod -Uri "https://vg-web-dashboard-y1fz.vercel.app/api/emergency" -Method Post -ContentType "application/json" -Body '{"type":"test","location":"28.7011193,77.4425917"}'
