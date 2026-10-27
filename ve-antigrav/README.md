@@ -155,6 +155,7 @@ GPIO 2        Onboard LED          Status & BLE / WiFi Indicator
 ```
 
 
+
 ## 👥 Team VisionGuard
 
 *Developed with ❤️ for road safety and life preservation.*
